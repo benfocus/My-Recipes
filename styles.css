@@ -1,0 +1,16 @@
+.heading{
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #E3F2F7;
+}
+.subsection{
+    color:blue;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #EFF7E3;
+}
+
+.list{
+    font-size: 20px;
+
+}
