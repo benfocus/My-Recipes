@@ -11,20 +11,15 @@ body {
 .subsection{
     color:blue;
     font-size: 40px;
+    text-align: right;
 }
 
 .list{
     font-size: 20px;
+    text-align: right;
 }
 
 .recipes{
     margin-bottom: 1px;
     
-}
-
-.homelinks{
-    text-align: right;
-    font-size: 50px;
-
-
 }
